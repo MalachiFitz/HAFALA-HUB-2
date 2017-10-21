@@ -13,3 +13,4 @@ C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_Alert
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_FSAuto.resources
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_Contactlist.resources
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_Tools.resources
+C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\bin\Debug\Bunifu_UI_v1.5.3.dll

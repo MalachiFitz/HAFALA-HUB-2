@@ -76,6 +76,8 @@
             this.label1.Size = new System.Drawing.Size(85, 20);
             this.label1.TabIndex = 4;
             this.label1.Text = "Hafala Hub";
+            this.label1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.label1_MouseDown);
+            this.label1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.label1_MouseMove);
             // 
             // UpperMinimizeButton
             // 
@@ -87,7 +89,7 @@
             this.UpperMinimizeButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.UpperMinimizeButton.Image = ((System.Drawing.Image)(resources.GetObject("UpperMinimizeButton.Image")));
             this.UpperMinimizeButton.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.UpperMinimizeButton.Location = new System.Drawing.Point(1013, 0);
+            this.UpperMinimizeButton.Location = new System.Drawing.Point(1013, -1);
             this.UpperMinimizeButton.Name = "UpperMinimizeButton";
             this.UpperMinimizeButton.Size = new System.Drawing.Size(41, 42);
             this.UpperMinimizeButton.TabIndex = 3;
@@ -137,6 +139,8 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseDown);
+            this.pictureBox1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseMove);
             // 
             // ExitButton
             // 
@@ -342,11 +346,11 @@
         private System.Windows.Forms.RadioButton FSAutoButton;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private Page_Menu page_Menu1;
         private Page_AlertsArchive page_AlertsArchive1;
         private Page_Contactlist page_Contactlist1;
         private Page_FSAuto page_FSAuto1;
         private Page_Tools page_Tools1;
+        private Page_Menu page_Menu1;
     }
 }
 
