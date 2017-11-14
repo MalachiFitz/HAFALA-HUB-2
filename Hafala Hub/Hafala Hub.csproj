@@ -32,13 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Bunifu_UI_v1.5.3">
-      <HintPath>D:\Bunifu_UI_v1.5.3.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Management" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -50,11 +45,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Alert Display.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Alert Display.Designer.cs">
+      <DependentUpon>Alert Display.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hafala Hub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hafala Hub.Designer.cs">
+      <DependentUpon>Hafala Hub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New Alert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New Alert.Designer.cs">
+      <DependentUpon>New Alert.cs</DependentUpon>
     </Compile>
     <Compile Include="Page_AlertsArchive.cs">
       <SubType>UserControl</SubType>
@@ -88,8 +95,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Alert Display.resx">
+      <DependentUpon>Alert Display.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hafala Hub.resx">
+      <DependentUpon>Hafala Hub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New Alert.resx">
+      <DependentUpon>New Alert.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Page_AlertsArchive.resx">
       <DependentUpon>Page_AlertsArchive.cs</DependentUpon>

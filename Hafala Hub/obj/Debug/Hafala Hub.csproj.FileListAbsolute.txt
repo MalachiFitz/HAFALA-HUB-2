@@ -2,7 +2,6 @@ C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\bin\Debug\Hafala Hub.exe.config
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\bin\Debug\Hafala Hub.exe
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\bin\Debug\Hafala Hub.pdb
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala Hub.csprojResolveAssemblyReference.cache
-C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Form1.resources
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Properties.Resources.resources
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala Hub.csproj.GenerateResource.Cache
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala Hub.csproj.CoreCompileInputs.cache
@@ -13,4 +12,23 @@ C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_Alert
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_FSAuto.resources
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_Contactlist.resources
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_Tools.resources
-C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\bin\Debug\Hafala Hub.exe.config
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\bin\Debug\Hafala Hub.exe
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\bin\Debug\Hafala Hub.pdb
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala Hub.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala_Hub.Form1.resources
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala_Hub.Page_AlertsArchive.resources
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala_Hub.Page_Contactlist.resources
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala_Hub.Page_FSAuto.resources
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala_Hub.Page_Menu.resources
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala_Hub.Page_Tools.resources
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala_Hub.Properties.Resources.resources
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala Hub.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala Hub.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala Hub.exe
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala Hub.pdb
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala_Hub.New_Alert.resources
+C:\Users\Admin\Desktop\HAFALA-HUB-2-master\Hafala Hub\obj\Debug\Hafala_Hub.Alert_Display.resources
+C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Alert_Display.resources
+C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.New_Alert.resources
+C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.HafalaHub.resources
